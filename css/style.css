@@ -1,0 +1,87 @@
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    } 
+
+    .body{
+    width: 100%;
+    height: 100vh; 
+    background-image: url("../img/background\ .jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: relative;
+      }
+    .painel{
+    margin: auto;
+    width: 500px;
+    height: 500px;
+    border-radius: 20px;   
+    text-align: center;
+    padding-top: 50px;  
+    color: purple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+    }
+    #sim{
+    height:40px;
+    width: 60px;
+    background-color:  purple ;
+    border:2px solid white;
+    border-radius: 10px;
+    color: yellowgreen;
+    margin-left: -50px;
+
+
+}
+    #nao {
+    position: absolute;
+    height:40px;
+    width: 60px;
+    background-color: purple;
+    border:2px solid white;
+    border-radius: 10px;
+    color:yellowgreen;
+    margin-left: 10px;
+}
+    div{
+     border: 500px;
+     border-color: black;
+     
+    }
+
+    
+ 
+    img {
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    display: block;
+    width: 300px;
+    height: 300px;
+    border: 4px solid #000;
+}  
+    #salve{
+      height:40px;
+      width: 60px;
+      background-color:  purple ;
+      border:2px solid white;
+      border-radius: 10px;
+      color: yellowgreen;
+      text-align: center;
+
+
+
+  }    
+  #click{
+    height:40px;
+    width: 60px;
+    background-color:  purple ;
+    border:2px solid white;
+    border-radius: 10px;
+    color: yellowgreen;
+    text-align: center;
+  }
+  
+    
